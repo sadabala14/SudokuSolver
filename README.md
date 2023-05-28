@@ -1,4 +1,4 @@
-# SudokuSolver
+# Sri' SudokuSolver
 Sudoku Solver personal project that I worked on in Summer 2023. 
 
 Followed this great tutorial by badcodinghabits.
